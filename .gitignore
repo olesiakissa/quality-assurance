@@ -6,6 +6,7 @@
 
 # Ignore configuration file
 config.properties
+src/test/resources/testconfig.properties
 
 # Ignore Gradle GUI config
 gradle-app.setting
